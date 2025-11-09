@@ -1,14 +1,20 @@
 ## Welcome to my GitHub!
 
-My name is Godwin. I'm interested in coding in JavaScript and Python. I'm also the best ukulele player you will ever meet.
+__My name is Godwin. I'm interested in coding in JavaScript and Python. I'm also the best ukulele player you will ever meet.__
 
 ### I'm currently working on...
 
-Building geolocated sites for businesses to allure people with secret deals and build there community and online presence simultaneously.
+- [Secret Keys](https://demo-day-markup.onrender.com): Building geolocated sites for businesses to allure people with secret deals and build there community and online presence simultaneously.
+
+### Fun Projects
+
+- [Music Calculator](godwinkamau.Agithub.io/complex-api/): An API caller to help expand your music tastes. Place 3 artists that you like into the inputs and find some new music to listen to. 
+- [Secret Messages](https://express-auth2.onrender.com): Place messages by using the geolocation API. Only people within 1 km will be able to see it (practice for secret keys).
+- [Pick a Card](https://matching-card.onrender.com): Call the Pexels API to search for pictures to populate your matching game.
 
 ### Currently Learning...
 
-The ins and outs of the MERN(MongoDB, Express.js, React, and Node.js) stack for fullstack development.
+- The ins and outs of the MERN(MongoDB, Express.js, React, and Node.js) stack for fullstack development.
 
 <!--
 **godwinKamau/godwinKamau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
