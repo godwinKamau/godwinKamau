@@ -1,3 +1,5 @@
+<img src="https://github.com/godwinKamau/godwinKamau/blob/main/Banner.png" style="height:420px; width:100%">
+
 # Welcome to my GitHub!
 
 __My name is Godwin. I'm interested in coding in JavaScript and Python. I'm also the best ukulele player you will ever meet.__
@@ -12,9 +14,7 @@ __My name is Godwin. I'm interested in coding in JavaScript and Python. I'm also
 - [Secret Messages](https://github.com/godwinKamau/express-auth2): Place messages by using the geolocation API. Only people within 1 km will be able to see it (practice for secret keys).
 - [Pick a Card](https://github.com/godwinKamau/matching-card): Call the Pexels API to search for pictures to populate your matching game.
 
-## Currently Learning...
 
-- The ins and outs of the MERN (MongoDB, Express.js, React, and Node.js) stack for fullstack development.
 
 <!--
 **godwinKamau/godwinKamau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,4 +29,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- Currently Learning...
 -->
