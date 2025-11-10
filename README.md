@@ -1,8 +1,8 @@
 <img src="https://github.com/godwinKamau/godwinKamau/blob/main/Banner.png" style="height:420px; width:100%">
 
-# Welcome to my GitHub!
+# About Me
 
-__My name is Godwin. I'm interested in coding in JavaScript and Python. I'm also the best ukulele player you will ever meet.__
+_I'm interested in coding in JavaScript and Python. I'm also the best ukulele player you will ever meet._
 
 ## I'm currently working on...
 
