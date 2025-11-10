@@ -10,7 +10,7 @@ _I'm interested in coding in JavaScript and Python. I'm also the best ukulele pl
 
 ## Fun Projects
 
-- [Music Calculator](https://github.com/godwinKamau/complex-api2): An API caller to help expand your music tastes. Place 3 artists that you like into the inputs and find some new music to listen to. 
+- [Music Calculator](https://github.com/godwinKamau/complex-api): An API caller to help expand your music tastes. Place 3 artists that you like into the inputs and find some new music to listen to. 
 - [Secret Messages](https://github.com/godwinKamau/express-auth2): Place messages by using the geolocation API. Only people within 1 km will be able to see it (practice for secret keys).
 - [Pick a Card](https://github.com/godwinKamau/matching-card): Call the Pexels API to search for pictures to populate your matching game.
 
